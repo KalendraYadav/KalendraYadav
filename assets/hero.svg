@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2F7BFF"/><stop offset="1" stop-color="#7AD0FF"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1B3A7A" stroke-opacity=".25"/></pattern>
+<radialGradient id="glow" cx=".8" cy=".3" r=".7"><stop offset="0" stop-color="#2F7BFF" stop-opacity=".35"/><stop offset="1" stop-color="#2F7BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx=".1" cy=".9" r=".6"><stop offset="0" stop-color="#FF2D55" stop-opacity=".25"/><stop offset="1" stop-color="#FF2D55" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="300" rx="14" fill="#060B18"/><rect width="900" height="300" rx="14" fill="url(#grid)"/>
+<rect width="900" height="300" rx="14" fill="url(#glow)"/><rect width="900" height="300" rx="14" fill="url(#glow2)"/>
+<rect x=".5" y=".5" width="899" height="299" rx="14" fill="none" stroke="#1B3A7A"/>
+<rect x="40" y="38" width="130" height="24" rx="4" fill="none" stroke="#2F7BFF"/><circle cx="56" cy="50" r="4" fill="#27E08A"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="68" y="55" font-family="'Courier New',ui-monospace,monospace" font-size="12" fill="#E6EDFF">OPEN TO BUILD</text>
+<text x="40" y="100" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#7F90B8">Hi there, I'm</text>
+<text x="38" y="170" font-family="Impact,'Arial Black',Haettenschweiler,sans-serif" font-weight="bold" font-size="76" fill="#E6EDFF" letter-spacing="2">KALENDRA</text>
+<text x="38" y="245" font-family="Impact,'Arial Black',Haettenschweiler,sans-serif" font-weight="bold" font-size="76" fill="url(#g)" letter-spacing="2">YADAV</text>
+<text x="560" y="150" font-family="Impact,'Arial Black',Haettenschweiler,sans-serif" font-weight="bold" font-size="30" fill="#E6EDFF">BUILD.</text><text x="560" y="182" font-family="Impact,'Arial Black',Haettenschweiler,sans-serif" font-weight="bold" font-size="30" fill="#FF2D55">SHIP.</text><text x="560" y="214" font-family="Impact,'Arial Black',Haettenschweiler,sans-serif" font-weight="bold" font-size="30" fill="#2F7BFF">SCALE.</text>
+<text x="40" y="278" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#7F90B8">Developer · Solo founder · Turning ideas into production software</text>
+<g font-family="'Courier New',ui-monospace,monospace" font-size="12" fill="#7F90B8"><text x="720" y="56">// NeuralHack</text><text x="720" y="74">// Startup Mindset</text></g></svg>
